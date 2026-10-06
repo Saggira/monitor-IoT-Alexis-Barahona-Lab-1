@@ -1,0 +1,2305 @@
+[
+  {
+    "nodo": "Laptop_Alexis",
+    "ubicacion": "Actividad en clase 3 - Desarrollo de Software VIII",
+    "hora": "2026-10-05 18:33:51",
+    "metricas": {
+      "cpu": {
+        "n": 29,
+        "min": 5.3,
+        "max": 45.9,
+        "prom": 18.18
+      },
+      "memoria": {
+        "n": 29,
+        "min": 74.8,
+        "max": 77.2,
+        "prom": 75.91
+      },
+      "red": {
+        "n": 29,
+        "min": 0.0,
+        "max": 142.9,
+        "prom": 31.66
+      },
+      "conexion": {
+        "n": 29,
+        "min": 0.0,
+        "max": 1.0,
+        "prom": 0.79
+      },
+      "disco": {
+        "n": 5,
+        "min": 22.6,
+        "max": 22.6,
+        "prom": 22.6
+      },
+      "procesos": {
+        "n": 5,
+        "min": 503,
+        "max": 504,
+        "prom": 503.8
+      },
+      "bateria": {
+        "n": 5,
+        "min": 84,
+        "max": 84,
+        "prom": 84.0
+      }
+    }
+  },
+  {
+    "nodo": "Laptop_Alexis",
+    "ubicacion": "Actividad en clase 3 - Desarrollo de Software VIII",
+    "hora": "2026-10-05 18:39:44",
+    "metricas": {
+      "cpu": {
+        "n": 21,
+        "min": 5.6,
+        "max": 38.0,
+        "prom": 17.91
+      },
+      "memoria": {
+        "n": 21,
+        "min": 75.2,
+        "max": 79.9,
+        "prom": 76.83
+      },
+      "red": {
+        "n": 21,
+        "min": 0.0,
+        "max": 548.4,
+        "prom": 38.1
+      },
+      "conexion": {
+        "n": 21,
+        "min": 1.0,
+        "max": 1.0,
+        "prom": 1.0
+      },
+      "disco": {
+        "n": 6,
+        "min": 22.6,
+        "max": 22.6,
+        "prom": 22.6
+      },
+      "procesos": {
+        "n": 6,
+        "min": 428,
+        "max": 504,
+        "prom": 485.67
+      },
+      "bateria": {
+        "n": 6,
+        "min": 84,
+        "max": 84,
+        "prom": 84.0
+      }
+    }
+  },
+  {
+    "nodo": "Laptop_Alexis",
+    "ubicacion": "Actividad en clase 3 - Desarrollo de Software VIII",
+    "hora": "2026-10-05 18:40:14",
+    "metricas": {
+      "cpu": {
+        "n": 29,
+        "min": 3.0,
+        "max": 24.8,
+        "prom": 7.29
+      },
+      "memoria": {
+        "n": 29,
+        "min": 74.5,
+        "max": 76.7,
+        "prom": 75.1
+      },
+      "red": {
+        "n": 29,
+        "min": 0.0,
+        "max": 9.8,
+        "prom": 1.11
+      },
+      "conexion": {
+        "n": 29,
+        "min": 1.0,
+        "max": 1.0,
+        "prom": 1.0
+      },
+      "disco": {
+        "n": 5,
+        "min": 22.6,
+        "max": 22.6,
+        "prom": 22.6
+      },
+      "procesos": {
+        "n": 5,
+        "min": 427,
+        "max": 429,
+        "prom": 427.6
+      },
+      "bateria": {
+        "n": 5,
+        "min": 84,
+        "max": 84,
+        "prom": 84.0
+      }
+    }
+  },
+  {
+    "nodo": "Laptop_Alexis",
+    "ubicacion": "Actividad en clase 3 - Desarrollo de Software VIII",
+    "hora": "2026-10-05 18:41:55",
+    "metricas": {
+      "cpu": {
+        "n": 29,
+        "min": 6.7,
+        "max": 38.0,
+        "prom": 17.18
+      },
+      "memoria": {
+        "n": 29,
+        "min": 75.3,
+        "max": 77.7,
+        "prom": 76.55
+      },
+      "red": {
+        "n": 29,
+        "min": 0.0,
+        "max": 138.3,
+        "prom": 19.64
+      },
+      "conexion": {
+        "n": 29,
+        "min": 1.0,
+        "max": 1.0,
+        "prom": 1.0
+      },
+      "disco": {
+        "n": 5,
+        "min": 22.6,
+        "max": 22.6,
+        "prom": 22.6
+      },
+      "procesos": {
+        "n": 5,
+        "min": 415,
+        "max": 427,
+        "prom": 420.8
+      },
+      "bateria": {
+        "n": 5,
+        "min": 83,
+        "max": 83,
+        "prom": 83.0
+      }
+    }
+  },
+  {
+    "nodo": "Laptop_Alexis",
+    "ubicacion": "Actividad en clase 3 - Desarrollo de Software VIII",
+    "hora": "2026-10-05 18:42:25",
+    "metricas": {
+      "cpu": {
+        "n": 29,
+        "min": 6.7,
+        "max": 38.9,
+        "prom": 22.12
+      },
+      "memoria": {
+        "n": 29,
+        "min": 75.9,
+        "max": 82.5,
+        "prom": 77.94
+      },
+      "red": {
+        "n": 29,
+        "min": 0.0,
+        "max": 93.6,
+        "prom": 13.6
+      },
+      "conexion": {
+        "n": 29,
+        "min": 1.0,
+        "max": 1.0,
+        "prom": 1.0
+      },
+      "disco": {
+        "n": 6,
+        "min": 22.6,
+        "max": 22.6,
+        "prom": 22.6
+      },
+      "procesos": {
+        "n": 6,
+        "min": 428,
+        "max": 440,
+        "prom": 434.0
+      },
+      "bateria": {
+        "n": 6,
+        "min": 83,
+        "max": 83,
+        "prom": 83.0
+      }
+    }
+  },
+  {
+    "nodo": "Laptop_Alexis",
+    "ubicacion": "Actividad en clase 3 - Desarrollo de Software VIII",
+    "hora": "2026-10-05 18:42:55",
+    "metricas": {
+      "cpu": {
+        "n": 29,
+        "min": 3.9,
+        "max": 23.6,
+        "prom": 14.29
+      },
+      "memoria": {
+        "n": 29,
+        "min": 75.5,
+        "max": 78.5,
+        "prom": 76.38
+      },
+      "red": {
+        "n": 29,
+        "min": 0.0,
+        "max": 100.6,
+        "prom": 8.24
+      },
+      "conexion": {
+        "n": 29,
+        "min": 1.0,
+        "max": 1.0,
+        "prom": 1.0
+      },
+      "disco": {
+        "n": 6,
+        "min": 22.6,
+        "max": 22.6,
+        "prom": 22.6
+      },
+      "procesos": {
+        "n": 6,
+        "min": 422,
+        "max": 431,
+        "prom": 427.0
+      },
+      "bateria": {
+        "n": 6,
+        "min": 83,
+        "max": 83,
+        "prom": 83.0
+      }
+    }
+  },
+  {
+    "nodo": "Laptop_Alexis",
+    "ubicacion": "Actividad en clase 3 - Desarrollo de Software VIII",
+    "hora": "2026-10-05 18:43:25",
+    "metricas": {
+      "cpu": {
+        "n": 30,
+        "min": 3.9,
+        "max": 24.8,
+        "prom": 9.82
+      },
+      "memoria": {
+        "n": 30,
+        "min": 75.7,
+        "max": 78.3,
+        "prom": 76.62
+      },
+      "red": {
+        "n": 30,
+        "min": 0.0,
+        "max": 19.6,
+        "prom": 3.22
+      },
+      "conexion": {
+        "n": 30,
+        "min": 1.0,
+        "max": 1.0,
+        "prom": 1.0
+      },
+      "disco": {
+        "n": 6,
+        "min": 22.6,
+        "max": 22.6,
+        "prom": 22.6
+      },
+      "procesos": {
+        "n": 6,
+        "min": 422,
+        "max": 429,
+        "prom": 425.83
+      },
+      "bateria": {
+        "n": 6,
+        "min": 83,
+        "max": 83,
+        "prom": 83.0
+      }
+    }
+  },
+  {
+    "nodo": "Laptop_Alexis",
+    "ubicacion": "Actividad en clase 3 - Desarrollo de Software VIII",
+    "hora": "2026-10-05 18:43:55",
+    "metricas": {
+      "cpu": {
+        "n": 29,
+        "min": 5.8,
+        "max": 20.8,
+        "prom": 9.43
+      },
+      "memoria": {
+        "n": 29,
+        "min": 76.4,
+        "max": 79.6,
+        "prom": 77.62
+      },
+      "red": {
+        "n": 29,
+        "min": 0.0,
+        "max": 55.6,
+        "prom": 6.57
+      },
+      "conexion": {
+        "n": 29,
+        "min": 1.0,
+        "max": 1.0,
+        "prom": 1.0
+      },
+      "disco": {
+        "n": 6,
+        "min": 22.6,
+        "max": 22.6,
+        "prom": 22.6
+      },
+      "procesos": {
+        "n": 6,
+        "min": 426,
+        "max": 429,
+        "prom": 427.83
+      },
+      "bateria": {
+        "n": 6,
+        "min": 83,
+        "max": 83,
+        "prom": 83.0
+      }
+    }
+  },
+  {
+    "nodo": "Laptop_Alexis",
+    "ubicacion": "Actividad en clase 3 - Desarrollo de Software VIII",
+    "hora": "2026-10-05 18:44:25",
+    "metricas": {
+      "cpu": {
+        "n": 29,
+        "min": 5.1,
+        "max": 16.4,
+        "prom": 9.39
+      },
+      "memoria": {
+        "n": 29,
+        "min": 75.8,
+        "max": 79.4,
+        "prom": 77.11
+      },
+      "red": {
+        "n": 29,
+        "min": 0.0,
+        "max": 30.2,
+        "prom": 6.13
+      },
+      "conexion": {
+        "n": 29,
+        "min": 1.0,
+        "max": 1.0,
+        "prom": 1.0
+      },
+      "disco": {
+        "n": 6,
+        "min": 22.6,
+        "max": 22.6,
+        "prom": 22.6
+      },
+      "procesos": {
+        "n": 6,
+        "min": 427,
+        "max": 429,
+        "prom": 427.33
+      },
+      "bateria": {
+        "n": 6,
+        "min": 83,
+        "max": 83,
+        "prom": 83.0
+      }
+    }
+  },
+  {
+    "nodo": "Laptop_Alexis",
+    "ubicacion": "Actividad en clase 3 - Desarrollo de Software VIII",
+    "hora": "2026-10-05 18:44:55",
+    "metricas": {
+      "cpu": {
+        "n": 29,
+        "min": 2.4,
+        "max": 27.2,
+        "prom": 11.17
+      },
+      "memoria": {
+        "n": 29,
+        "min": 75.0,
+        "max": 80.1,
+        "prom": 77.62
+      },
+      "red": {
+        "n": 29,
+        "min": 0.0,
+        "max": 36.0,
+        "prom": 3.93
+      },
+      "conexion": {
+        "n": 29,
+        "min": 1.0,
+        "max": 1.0,
+        "prom": 1.0
+      },
+      "disco": {
+        "n": 5,
+        "min": 22.6,
+        "max": 22.6,
+        "prom": 22.6
+      },
+      "procesos": {
+        "n": 5,
+        "min": 425,
+        "max": 427,
+        "prom": 425.8
+      },
+      "bateria": {
+        "n": 5,
+        "min": 83,
+        "max": 83,
+        "prom": 83.0
+      }
+    }
+  },
+  {
+    "nodo": "Laptop_Alexis",
+    "ubicacion": "Actividad en clase 3 - Desarrollo de Software VIII",
+    "hora": "2026-10-05 18:45:26",
+    "metricas": {
+      "cpu": {
+        "n": 29,
+        "min": 2.3,
+        "max": 11.8,
+        "prom": 5.24
+      },
+      "memoria": {
+        "n": 29,
+        "min": 75.3,
+        "max": 76.6,
+        "prom": 75.96
+      },
+      "red": {
+        "n": 29,
+        "min": 0.0,
+        "max": 12.7,
+        "prom": 4.52
+      },
+      "conexion": {
+        "n": 29,
+        "min": 1.0,
+        "max": 1.0,
+        "prom": 1.0
+      },
+      "disco": {
+        "n": 6,
+        "min": 22.6,
+        "max": 22.6,
+        "prom": 22.6
+      },
+      "procesos": {
+        "n": 6,
+        "min": 421,
+        "max": 425,
+        "prom": 422.67
+      },
+      "bateria": {
+        "n": 6,
+        "min": 83,
+        "max": 83,
+        "prom": 83.0
+      }
+    }
+  },
+  {
+    "nodo": "Laptop_Alexis",
+    "ubicacion": "Actividad en clase 3 - Desarrollo de Software VIII",
+    "hora": "2026-10-05 18:45:56",
+    "metricas": {
+      "cpu": {
+        "n": 30,
+        "min": 2.1,
+        "max": 9.3,
+        "prom": 6.05
+      },
+      "memoria": {
+        "n": 30,
+        "min": 75.5,
+        "max": 76.5,
+        "prom": 76.05
+      },
+      "red": {
+        "n": 30,
+        "min": 0.0,
+        "max": 35.9,
+        "prom": 6.75
+      },
+      "conexion": {
+        "n": 30,
+        "min": 1.0,
+        "max": 1.0,
+        "prom": 1.0
+      },
+      "disco": {
+        "n": 6,
+        "min": 22.6,
+        "max": 22.6,
+        "prom": 22.6
+      },
+      "procesos": {
+        "n": 6,
+        "min": 421,
+        "max": 423,
+        "prom": 421.83
+      },
+      "bateria": {
+        "n": 6,
+        "min": 83,
+        "max": 83,
+        "prom": 83.0
+      }
+    }
+  },
+  {
+    "nodo": "Laptop_Alexis",
+    "ubicacion": "Actividad en clase 3 - Desarrollo de Software VIII",
+    "hora": "2026-10-05 18:46:26",
+    "metricas": {
+      "cpu": {
+        "n": 29,
+        "min": 2.2,
+        "max": 23.7,
+        "prom": 7.93
+      },
+      "memoria": {
+        "n": 29,
+        "min": 74.6,
+        "max": 75.7,
+        "prom": 75.22
+      },
+      "red": {
+        "n": 29,
+        "min": 0.0,
+        "max": 36.1,
+        "prom": 5.62
+      },
+      "conexion": {
+        "n": 29,
+        "min": 1.0,
+        "max": 1.0,
+        "prom": 1.0
+      },
+      "disco": {
+        "n": 6,
+        "min": 22.6,
+        "max": 22.6,
+        "prom": 22.6
+      },
+      "procesos": {
+        "n": 6,
+        "min": 420,
+        "max": 421,
+        "prom": 420.5
+      },
+      "bateria": {
+        "n": 6,
+        "min": 83,
+        "max": 83,
+        "prom": 83.0
+      }
+    }
+  },
+  {
+    "nodo": "Laptop_Alexis",
+    "ubicacion": "Actividad en clase 3 - Desarrollo de Software VIII",
+    "hora": "2026-10-05 18:46:56",
+    "metricas": {
+      "cpu": {
+        "n": 29,
+        "min": 3.8,
+        "max": 21.4,
+        "prom": 8.5
+      },
+      "memoria": {
+        "n": 29,
+        "min": 74.5,
+        "max": 75.8,
+        "prom": 75.39
+      },
+      "red": {
+        "n": 29,
+        "min": 0.0,
+        "max": 28.2,
+        "prom": 11.13
+      },
+      "conexion": {
+        "n": 29,
+        "min": 1.0,
+        "max": 1.0,
+        "prom": 1.0
+      },
+      "disco": {
+        "n": 6,
+        "min": 22.6,
+        "max": 22.6,
+        "prom": 22.6
+      },
+      "procesos": {
+        "n": 6,
+        "min": 421,
+        "max": 434,
+        "prom": 426.67
+      },
+      "bateria": {
+        "n": 6,
+        "min": 83,
+        "max": 83,
+        "prom": 83.0
+      }
+    }
+  },
+  {
+    "nodo": "Laptop_Alexis",
+    "ubicacion": "Actividad en clase 3 - Desarrollo de Software VIII",
+    "hora": "2026-10-05 18:47:26",
+    "metricas": {
+      "cpu": {
+        "n": 28,
+        "min": 4.0,
+        "max": 24.9,
+        "prom": 10.42
+      },
+      "memoria": {
+        "n": 28,
+        "min": 74.8,
+        "max": 80.5,
+        "prom": 75.74
+      },
+      "red": {
+        "n": 28,
+        "min": 0.0,
+        "max": 64.5,
+        "prom": 9.9
+      },
+      "conexion": {
+        "n": 28,
+        "min": 1.0,
+        "max": 1.0,
+        "prom": 1.0
+      },
+      "disco": {
+        "n": 6,
+        "min": 22.6,
+        "max": 22.6,
+        "prom": 22.6
+      },
+      "procesos": {
+        "n": 6,
+        "min": 423,
+        "max": 432,
+        "prom": 426.17
+      },
+      "bateria": {
+        "n": 6,
+        "min": 83,
+        "max": 83,
+        "prom": 83.0
+      }
+    }
+  },
+  {
+    "nodo": "Laptop_Alexis",
+    "ubicacion": "Actividad en clase 3 - Desarrollo de Software VIII",
+    "hora": "2026-10-05 18:48:08",
+    "metricas": {
+      "cpu": {
+        "n": 6,
+        "min": 9.0,
+        "max": 21.5,
+        "prom": 14.77
+      },
+      "memoria": {
+        "n": 6,
+        "min": 78.5,
+        "max": 80.1,
+        "prom": 79.45
+      },
+      "red": {
+        "n": 6,
+        "min": 0.0,
+        "max": 9.0,
+        "prom": 2.8
+      },
+      "conexion": {
+        "n": 6,
+        "min": 1.0,
+        "max": 1.0,
+        "prom": 1.0
+      },
+      "disco": {
+        "n": 2,
+        "min": 22.6,
+        "max": 22.6,
+        "prom": 22.6
+      },
+      "procesos": {
+        "n": 2,
+        "min": 431,
+        "max": 432,
+        "prom": 431.5
+      },
+      "bateria": {
+        "n": 2,
+        "min": 83,
+        "max": 83,
+        "prom": 83.0
+      }
+    }
+  },
+  {
+    "nodo": "Laptop_Alexis",
+    "ubicacion": "Actividad en clase 3 - Desarrollo de Software VIII",
+    "hora": "2026-10-05 18:48:38",
+    "metricas": {
+      "cpu": {
+        "n": 29,
+        "min": 5.0,
+        "max": 23.1,
+        "prom": 10.34
+      },
+      "memoria": {
+        "n": 29,
+        "min": 76.1,
+        "max": 80.6,
+        "prom": 78.0
+      },
+      "red": {
+        "n": 29,
+        "min": 0.0,
+        "max": 132.1,
+        "prom": 16.03
+      },
+      "conexion": {
+        "n": 29,
+        "min": 1.0,
+        "max": 1.0,
+        "prom": 1.0
+      },
+      "disco": {
+        "n": 5,
+        "min": 22.6,
+        "max": 22.6,
+        "prom": 22.6
+      },
+      "procesos": {
+        "n": 5,
+        "min": 430,
+        "max": 432,
+        "prom": 430.8
+      },
+      "bateria": {
+        "n": 5,
+        "min": 83,
+        "max": 83,
+        "prom": 83.0
+      }
+    }
+  },
+  {
+    "nodo": "Laptop_Alexis",
+    "ubicacion": "Actividad en clase 3 - Desarrollo de Software VIII",
+    "hora": "2026-10-05 18:49:08",
+    "metricas": {
+      "cpu": {
+        "n": 29,
+        "min": 2.1,
+        "max": 31.9,
+        "prom": 7.5
+      },
+      "memoria": {
+        "n": 29,
+        "min": 76.3,
+        "max": 77.8,
+        "prom": 77.04
+      },
+      "red": {
+        "n": 29,
+        "min": 0.0,
+        "max": 53.7,
+        "prom": 6.23
+      },
+      "conexion": {
+        "n": 29,
+        "min": 1.0,
+        "max": 1.0,
+        "prom": 1.0
+      },
+      "disco": {
+        "n": 6,
+        "min": 22.6,
+        "max": 22.6,
+        "prom": 22.6
+      },
+      "procesos": {
+        "n": 6,
+        "min": 435,
+        "max": 442,
+        "prom": 440.0
+      },
+      "bateria": {
+        "n": 6,
+        "min": 83,
+        "max": 83,
+        "prom": 83.0
+      }
+    }
+  },
+  {
+    "nodo": "Laptop_Alexis",
+    "ubicacion": "Actividad en clase 3 - Desarrollo de Software VIII",
+    "hora": "2026-10-05 18:49:38",
+    "metricas": {
+      "cpu": {
+        "n": 29,
+        "min": 1.9,
+        "max": 41.2,
+        "prom": 15.13
+      },
+      "memoria": {
+        "n": 29,
+        "min": 75.6,
+        "max": 78.6,
+        "prom": 76.74
+      },
+      "red": {
+        "n": 29,
+        "min": 0.0,
+        "max": 136.8,
+        "prom": 16.07
+      },
+      "conexion": {
+        "n": 29,
+        "min": 1.0,
+        "max": 1.0,
+        "prom": 1.0
+      },
+      "disco": {
+        "n": 6,
+        "min": 22.6,
+        "max": 22.6,
+        "prom": 22.6
+      },
+      "procesos": {
+        "n": 6,
+        "min": 441,
+        "max": 449,
+        "prom": 445.17
+      },
+      "bateria": {
+        "n": 6,
+        "min": 82,
+        "max": 83,
+        "prom": 82.83
+      }
+    }
+  },
+  {
+    "nodo": "Laptop_Alexis",
+    "ubicacion": "Actividad en clase 3 - Desarrollo de Software VIII",
+    "hora": "2026-10-05 18:50:09",
+    "metricas": {
+      "cpu": {
+        "n": 29,
+        "min": 3.2,
+        "max": 17.5,
+        "prom": 8.75
+      },
+      "memoria": {
+        "n": 29,
+        "min": 75.3,
+        "max": 77.1,
+        "prom": 76.2
+      },
+      "red": {
+        "n": 29,
+        "min": 0.0,
+        "max": 146.6,
+        "prom": 8.1
+      },
+      "conexion": {
+        "n": 29,
+        "min": 1.0,
+        "max": 1.0,
+        "prom": 1.0
+      },
+      "disco": {
+        "n": 6,
+        "min": 22.6,
+        "max": 22.6,
+        "prom": 22.6
+      },
+      "procesos": {
+        "n": 6,
+        "min": 442,
+        "max": 448,
+        "prom": 444.33
+      },
+      "bateria": {
+        "n": 6,
+        "min": 82,
+        "max": 82,
+        "prom": 82.0
+      }
+    }
+  },
+  {
+    "nodo": "Laptop_Alexis",
+    "ubicacion": "Actividad en clase 3 - Desarrollo de Software VIII",
+    "hora": "2026-10-05 18:50:39",
+    "metricas": {
+      "cpu": {
+        "n": 30,
+        "min": 2.7,
+        "max": 100.0,
+        "prom": 50.31
+      },
+      "memoria": {
+        "n": 30,
+        "min": 75.5,
+        "max": 78.0,
+        "prom": 76.23
+      },
+      "red": {
+        "n": 30,
+        "min": 0.0,
+        "max": 150.1,
+        "prom": 14.76
+      },
+      "conexion": {
+        "n": 30,
+        "min": 1.0,
+        "max": 1.0,
+        "prom": 1.0
+      },
+      "disco": {
+        "n": 6,
+        "min": 22.6,
+        "max": 22.6,
+        "prom": 22.6
+      },
+      "procesos": {
+        "n": 6,
+        "min": 442,
+        "max": 455,
+        "prom": 448.5
+      },
+      "bateria": {
+        "n": 6,
+        "min": 82,
+        "max": 82,
+        "prom": 82.0
+      }
+    }
+  },
+  {
+    "nodo": "Laptop_Alexis",
+    "ubicacion": "Actividad en clase 3 - Desarrollo de Software VIII",
+    "hora": "2026-10-05 18:51:09",
+    "metricas": {
+      "cpu": {
+        "n": 29,
+        "min": 6.0,
+        "max": 99.9,
+        "prom": 17.41
+      },
+      "memoria": {
+        "n": 29,
+        "min": 75.6,
+        "max": 80.6,
+        "prom": 77.59
+      },
+      "red": {
+        "n": 29,
+        "min": 0.0,
+        "max": 33.7,
+        "prom": 5.88
+      },
+      "conexion": {
+        "n": 29,
+        "min": 1.0,
+        "max": 1.0,
+        "prom": 1.0
+      },
+      "disco": {
+        "n": 6,
+        "min": 22.6,
+        "max": 22.6,
+        "prom": 22.6
+      },
+      "procesos": {
+        "n": 6,
+        "min": 444,
+        "max": 446,
+        "prom": 445.0
+      },
+      "bateria": {
+        "n": 6,
+        "min": 82,
+        "max": 82,
+        "prom": 82.0
+      }
+    }
+  },
+  {
+    "nodo": "Laptop_Alexis",
+    "ubicacion": "Actividad en clase 3 - Desarrollo de Software VIII",
+    "hora": "2026-10-05 18:51:39",
+    "metricas": {
+      "cpu": {
+        "n": 29,
+        "min": 4.3,
+        "max": 15.8,
+        "prom": 7.98
+      },
+      "memoria": {
+        "n": 29,
+        "min": 76.3,
+        "max": 78.0,
+        "prom": 76.69
+      },
+      "red": {
+        "n": 29,
+        "min": 0.0,
+        "max": 28.2,
+        "prom": 5.01
+      },
+      "conexion": {
+        "n": 29,
+        "min": 1.0,
+        "max": 1.0,
+        "prom": 1.0
+      },
+      "disco": {
+        "n": 6,
+        "min": 22.6,
+        "max": 22.6,
+        "prom": 22.6
+      },
+      "procesos": {
+        "n": 6,
+        "min": 443,
+        "max": 444,
+        "prom": 443.83
+      },
+      "bateria": {
+        "n": 6,
+        "min": 82,
+        "max": 82,
+        "prom": 82.0
+      }
+    }
+  },
+  {
+    "nodo": "Laptop_Alexis",
+    "ubicacion": "Actividad en clase 3 - Desarrollo de Software VIII",
+    "hora": "2026-10-05 18:52:09",
+    "metricas": {
+      "cpu": {
+        "n": 30,
+        "min": 2.7,
+        "max": 12.8,
+        "prom": 7.38
+      },
+      "memoria": {
+        "n": 30,
+        "min": 75.8,
+        "max": 76.6,
+        "prom": 76.35
+      },
+      "red": {
+        "n": 30,
+        "min": 0.0,
+        "max": 24.3,
+        "prom": 10.79
+      },
+      "conexion": {
+        "n": 30,
+        "min": 1.0,
+        "max": 1.0,
+        "prom": 1.0
+      },
+      "disco": {
+        "n": 5,
+        "min": 22.6,
+        "max": 22.6,
+        "prom": 22.6
+      },
+      "procesos": {
+        "n": 5,
+        "min": 439,
+        "max": 444,
+        "prom": 443.0
+      },
+      "bateria": {
+        "n": 5,
+        "min": 82,
+        "max": 82,
+        "prom": 82.0
+      }
+    }
+  },
+  {
+    "nodo": "Laptop_Alexis",
+    "ubicacion": "Actividad en clase 3 - Desarrollo de Software VIII",
+    "hora": "2026-10-05 18:52:39",
+    "metricas": {
+      "cpu": {
+        "n": 29,
+        "min": 2.4,
+        "max": 23.8,
+        "prom": 7.52
+      },
+      "memoria": {
+        "n": 29,
+        "min": 75.0,
+        "max": 76.4,
+        "prom": 75.84
+      },
+      "red": {
+        "n": 29,
+        "min": 0.0,
+        "max": 31.1,
+        "prom": 5.23
+      },
+      "conexion": {
+        "n": 29,
+        "min": 1.0,
+        "max": 1.0,
+        "prom": 1.0
+      },
+      "disco": {
+        "n": 6,
+        "min": 22.6,
+        "max": 22.6,
+        "prom": 22.6
+      },
+      "procesos": {
+        "n": 6,
+        "min": 438,
+        "max": 439,
+        "prom": 438.67
+      },
+      "bateria": {
+        "n": 6,
+        "min": 82,
+        "max": 82,
+        "prom": 82.0
+      }
+    }
+  },
+  {
+    "nodo": "Laptop_Alexis",
+    "ubicacion": "Actividad en clase 3 - Desarrollo de Software VIII",
+    "hora": "2026-10-05 18:53:09",
+    "metricas": {
+      "cpu": {
+        "n": 29,
+        "min": 2.9,
+        "max": 22.7,
+        "prom": 7.07
+      },
+      "memoria": {
+        "n": 29,
+        "min": 75.2,
+        "max": 77.6,
+        "prom": 76.19
+      },
+      "red": {
+        "n": 29,
+        "min": 0.0,
+        "max": 85.6,
+        "prom": 8.18
+      },
+      "conexion": {
+        "n": 29,
+        "min": 1.0,
+        "max": 1.0,
+        "prom": 1.0
+      },
+      "disco": {
+        "n": 6,
+        "min": 22.6,
+        "max": 22.6,
+        "prom": 22.6
+      },
+      "procesos": {
+        "n": 6,
+        "min": 439,
+        "max": 442,
+        "prom": 440.5
+      },
+      "bateria": {
+        "n": 6,
+        "min": 82,
+        "max": 82,
+        "prom": 82.0
+      }
+    }
+  },
+  {
+    "nodo": "Laptop_Alexis",
+    "ubicacion": "Actividad en clase 3 - Desarrollo de Software VIII",
+    "hora": "2026-10-05 18:53:40",
+    "metricas": {
+      "cpu": {
+        "n": 29,
+        "min": 2.7,
+        "max": 16.3,
+        "prom": 6.76
+      },
+      "memoria": {
+        "n": 29,
+        "min": 75.8,
+        "max": 78.2,
+        "prom": 76.44
+      },
+      "red": {
+        "n": 29,
+        "min": 0.0,
+        "max": 21.4,
+        "prom": 2.96
+      },
+      "conexion": {
+        "n": 29,
+        "min": 1.0,
+        "max": 1.0,
+        "prom": 1.0
+      },
+      "disco": {
+        "n": 6,
+        "min": 22.6,
+        "max": 22.6,
+        "prom": 22.6
+      },
+      "procesos": {
+        "n": 6,
+        "min": 441,
+        "max": 444,
+        "prom": 442.5
+      },
+      "bateria": {
+        "n": 6,
+        "min": 82,
+        "max": 82,
+        "prom": 82.0
+      }
+    }
+  },
+  {
+    "nodo": "Laptop_Alexis",
+    "ubicacion": "Actividad en clase 3 - Desarrollo de Software VIII",
+    "hora": "2026-10-05 18:54:10",
+    "metricas": {
+      "cpu": {
+        "n": 29,
+        "min": 3.3,
+        "max": 23.1,
+        "prom": 8.47
+      },
+      "memoria": {
+        "n": 29,
+        "min": 76.7,
+        "max": 80.5,
+        "prom": 78.07
+      },
+      "red": {
+        "n": 29,
+        "min": 0.0,
+        "max": 22.0,
+        "prom": 2.31
+      },
+      "conexion": {
+        "n": 29,
+        "min": 1.0,
+        "max": 1.0,
+        "prom": 1.0
+      },
+      "disco": {
+        "n": 6,
+        "min": 22.6,
+        "max": 22.6,
+        "prom": 22.6
+      },
+      "procesos": {
+        "n": 6,
+        "min": 446,
+        "max": 446,
+        "prom": 446.0
+      },
+      "bateria": {
+        "n": 6,
+        "min": 82,
+        "max": 82,
+        "prom": 82.0
+      }
+    }
+  },
+  {
+    "nodo": "Laptop_Alexis",
+    "ubicacion": "Actividad en clase 3 - Desarrollo de Software VIII",
+    "hora": "2026-10-05 18:54:40",
+    "metricas": {
+      "cpu": {
+        "n": 30,
+        "min": 2.1,
+        "max": 21.9,
+        "prom": 7.47
+      },
+      "memoria": {
+        "n": 30,
+        "min": 76.9,
+        "max": 79.3,
+        "prom": 77.72
+      },
+      "red": {
+        "n": 30,
+        "min": 0.0,
+        "max": 72.4,
+        "prom": 6.61
+      },
+      "conexion": {
+        "n": 30,
+        "min": 1.0,
+        "max": 1.0,
+        "prom": 1.0
+      },
+      "disco": {
+        "n": 6,
+        "min": 22.6,
+        "max": 22.6,
+        "prom": 22.6
+      },
+      "procesos": {
+        "n": 6,
+        "min": 445,
+        "max": 448,
+        "prom": 445.83
+      },
+      "bateria": {
+        "n": 6,
+        "min": 82,
+        "max": 82,
+        "prom": 82.0
+      }
+    }
+  },
+  {
+    "nodo": "Laptop_Alexis",
+    "ubicacion": "Actividad en clase 3 - Desarrollo de Software VIII",
+    "hora": "2026-10-05 18:55:10",
+    "metricas": {
+      "cpu": {
+        "n": 29,
+        "min": 2.9,
+        "max": 34.4,
+        "prom": 14.64
+      },
+      "memoria": {
+        "n": 29,
+        "min": 76.8,
+        "max": 82.1,
+        "prom": 78.18
+      },
+      "red": {
+        "n": 29,
+        "min": 0.0,
+        "max": 1349.6,
+        "prom": 123.54
+      },
+      "conexion": {
+        "n": 29,
+        "min": 1.0,
+        "max": 1.0,
+        "prom": 1.0
+      },
+      "disco": {
+        "n": 5,
+        "min": 22.6,
+        "max": 22.6,
+        "prom": 22.6
+      },
+      "procesos": {
+        "n": 5,
+        "min": 448,
+        "max": 452,
+        "prom": 449.6
+      },
+      "bateria": {
+        "n": 5,
+        "min": 82,
+        "max": 82,
+        "prom": 82.0
+      }
+    }
+  },
+  {
+    "nodo": "Laptop_Alexis",
+    "ubicacion": "Actividad en clase 3 - Desarrollo de Software VIII",
+    "hora": "2026-10-05 18:55:40",
+    "metricas": {
+      "cpu": {
+        "n": 29,
+        "min": 8.9,
+        "max": 52.0,
+        "prom": 21.27
+      },
+      "memoria": {
+        "n": 29,
+        "min": 77.7,
+        "max": 82.5,
+        "prom": 79.69
+      },
+      "red": {
+        "n": 29,
+        "min": 0.0,
+        "max": 3534.2,
+        "prom": 292.82
+      },
+      "conexion": {
+        "n": 29,
+        "min": 1.0,
+        "max": 1.0,
+        "prom": 1.0
+      },
+      "disco": {
+        "n": 6,
+        "min": 22.6,
+        "max": 22.6,
+        "prom": 22.6
+      },
+      "procesos": {
+        "n": 6,
+        "min": 430,
+        "max": 451,
+        "prom": 442.17
+      },
+      "bateria": {
+        "n": 6,
+        "min": 82,
+        "max": 82,
+        "prom": 82.0
+      }
+    }
+  },
+  {
+    "nodo": "Laptop_Alexis",
+    "ubicacion": "Actividad en clase 3 - Desarrollo de Software VIII",
+    "hora": "2026-10-05 18:56:10",
+    "metricas": {
+      "cpu": {
+        "n": 29,
+        "min": 6.3,
+        "max": 81.0,
+        "prom": 31.23
+      },
+      "memoria": {
+        "n": 29,
+        "min": 78.4,
+        "max": 85.7,
+        "prom": 80.69
+      },
+      "red": {
+        "n": 29,
+        "min": 0.0,
+        "max": 12750.5,
+        "prom": 2200.46
+      },
+      "conexion": {
+        "n": 29,
+        "min": 1.0,
+        "max": 1.0,
+        "prom": 1.0
+      },
+      "disco": {
+        "n": 6,
+        "min": 22.6,
+        "max": 22.6,
+        "prom": 22.6
+      },
+      "procesos": {
+        "n": 6,
+        "min": 405,
+        "max": 426,
+        "prom": 416.17
+      },
+      "bateria": {
+        "n": 6,
+        "min": 81,
+        "max": 81,
+        "prom": 81.0
+      }
+    }
+  },
+  {
+    "nodo": "Laptop_Alexis",
+    "ubicacion": "Actividad en clase 3 - Desarrollo de Software VIII",
+    "hora": "2026-10-05 18:56:40",
+    "metricas": {
+      "cpu": {
+        "n": 30,
+        "min": 4.1,
+        "max": 52.0,
+        "prom": 20.68
+      },
+      "memoria": {
+        "n": 30,
+        "min": 72.0,
+        "max": 83.2,
+        "prom": 75.94
+      },
+      "red": {
+        "n": 30,
+        "min": 0.0,
+        "max": 7367.5,
+        "prom": 458.84
+      },
+      "conexion": {
+        "n": 30,
+        "min": 1.0,
+        "max": 1.0,
+        "prom": 1.0
+      },
+      "disco": {
+        "n": 6,
+        "min": 22.6,
+        "max": 22.6,
+        "prom": 22.6
+      },
+      "procesos": {
+        "n": 6,
+        "min": 365,
+        "max": 398,
+        "prom": 375.0
+      },
+      "bateria": {
+        "n": 6,
+        "min": 81,
+        "max": 81,
+        "prom": 81.0
+      }
+    }
+  },
+  {
+    "nodo": "Laptop_Alexis",
+    "ubicacion": "Actividad en clase 3 - Desarrollo de Software VIII",
+    "hora": "2026-10-05 18:57:10",
+    "metricas": {
+      "cpu": {
+        "n": 29,
+        "min": 3.5,
+        "max": 12.3,
+        "prom": 8.14
+      },
+      "memoria": {
+        "n": 29,
+        "min": 69.4,
+        "max": 73.7,
+        "prom": 71.39
+      },
+      "red": {
+        "n": 29,
+        "min": 0.0,
+        "max": 42.8,
+        "prom": 11.58
+      },
+      "conexion": {
+        "n": 29,
+        "min": 1.0,
+        "max": 1.0,
+        "prom": 1.0
+      },
+      "disco": {
+        "n": 6,
+        "min": 22.6,
+        "max": 22.6,
+        "prom": 22.6
+      },
+      "procesos": {
+        "n": 6,
+        "min": 365,
+        "max": 368,
+        "prom": 366.83
+      },
+      "bateria": {
+        "n": 6,
+        "min": 81,
+        "max": 81,
+        "prom": 81.0
+      }
+    }
+  },
+  {
+    "nodo": "Laptop_Alexis",
+    "ubicacion": "Actividad en clase 3 - Desarrollo de Software VIII",
+    "hora": "2026-10-05 18:57:40",
+    "metricas": {
+      "cpu": {
+        "n": 29,
+        "min": 2.6,
+        "max": 16.3,
+        "prom": 7.86
+      },
+      "memoria": {
+        "n": 29,
+        "min": 69.2,
+        "max": 72.4,
+        "prom": 70.44
+      },
+      "red": {
+        "n": 29,
+        "min": 0.0,
+        "max": 57.4,
+        "prom": 9.7
+      },
+      "conexion": {
+        "n": 29,
+        "min": 1.0,
+        "max": 1.0,
+        "prom": 1.0
+      },
+      "disco": {
+        "n": 6,
+        "min": 22.6,
+        "max": 22.6,
+        "prom": 22.6
+      },
+      "procesos": {
+        "n": 6,
+        "min": 364,
+        "max": 368,
+        "prom": 367.0
+      },
+      "bateria": {
+        "n": 6,
+        "min": 81,
+        "max": 81,
+        "prom": 81.0
+      }
+    }
+  },
+  {
+    "nodo": "Laptop_Alexis",
+    "ubicacion": "Actividad en clase 3 - Desarrollo de Software VIII",
+    "hora": "2026-10-05 18:58:10",
+    "metricas": {
+      "cpu": {
+        "n": 29,
+        "min": 4.0,
+        "max": 61.1,
+        "prom": 19.69
+      },
+      "memoria": {
+        "n": 29,
+        "min": 71.1,
+        "max": 72.6,
+        "prom": 72.15
+      },
+      "red": {
+        "n": 29,
+        "min": 0.0,
+        "max": 26.3,
+        "prom": 1.17
+      },
+      "conexion": {
+        "n": 29,
+        "min": 0.0,
+        "max": 1.0,
+        "prom": 0.07
+      },
+      "disco": {
+        "n": 5,
+        "min": 22.6,
+        "max": 22.6,
+        "prom": 22.6
+      },
+      "procesos": {
+        "n": 5,
+        "min": 397,
+        "max": 415,
+        "prom": 410.2
+      },
+      "bateria": {
+        "n": 5,
+        "min": 81,
+        "max": 81,
+        "prom": 81.0
+      }
+    }
+  },
+  {
+    "nodo": "Laptop_Alexis",
+    "ubicacion": "Actividad en clase 3 - Desarrollo de Software VIII",
+    "hora": "2026-10-05 18:58:41",
+    "metricas": {
+      "cpu": {
+        "n": 29,
+        "min": 2.8,
+        "max": 24.6,
+        "prom": 7.86
+      },
+      "memoria": {
+        "n": 29,
+        "min": 72.1,
+        "max": 76.8,
+        "prom": 73.36
+      },
+      "red": {
+        "n": 29,
+        "min": 0.0,
+        "max": 0.0,
+        "prom": 0.0
+      },
+      "conexion": {
+        "n": 29,
+        "min": 0.0,
+        "max": 0.0,
+        "prom": 0.0
+      },
+      "disco": {
+        "n": 6,
+        "min": 22.6,
+        "max": 22.6,
+        "prom": 22.6
+      },
+      "procesos": {
+        "n": 6,
+        "min": 401,
+        "max": 409,
+        "prom": 404.83
+      },
+      "bateria": {
+        "n": 6,
+        "min": 81,
+        "max": 81,
+        "prom": 81.0
+      }
+    }
+  },
+  {
+    "nodo": "Laptop_Alexis",
+    "ubicacion": "Actividad en clase 3 - Desarrollo de Software VIII",
+    "hora": "2026-10-05 18:59:11",
+    "metricas": {
+      "cpu": {
+        "n": 30,
+        "min": 2.9,
+        "max": 47.7,
+        "prom": 16.1
+      },
+      "memoria": {
+        "n": 30,
+        "min": 72.4,
+        "max": 76.4,
+        "prom": 74.07
+      },
+      "red": {
+        "n": 30,
+        "min": 0.0,
+        "max": 257.6,
+        "prom": 44.29
+      },
+      "conexion": {
+        "n": 30,
+        "min": 0.0,
+        "max": 1.0,
+        "prom": 0.43
+      },
+      "disco": {
+        "n": 6,
+        "min": 22.6,
+        "max": 22.6,
+        "prom": 22.6
+      },
+      "procesos": {
+        "n": 6,
+        "min": 400,
+        "max": 413,
+        "prom": 404.83
+      },
+      "bateria": {
+        "n": 6,
+        "min": 81,
+        "max": 81,
+        "prom": 81.0
+      }
+    }
+  },
+  {
+    "nodo": "Laptop_Alexis",
+    "ubicacion": "Actividad en clase 3 - Desarrollo de Software VIII",
+    "hora": "2026-10-05 18:59:41",
+    "metricas": {
+      "cpu": {
+        "n": 29,
+        "min": 3.2,
+        "max": 11.9,
+        "prom": 6.07
+      },
+      "memoria": {
+        "n": 29,
+        "min": 72.5,
+        "max": 74.0,
+        "prom": 73.29
+      },
+      "red": {
+        "n": 29,
+        "min": 0.0,
+        "max": 82.6,
+        "prom": 6.54
+      },
+      "conexion": {
+        "n": 29,
+        "min": 1.0,
+        "max": 1.0,
+        "prom": 1.0
+      },
+      "disco": {
+        "n": 6,
+        "min": 22.6,
+        "max": 22.6,
+        "prom": 22.6
+      },
+      "procesos": {
+        "n": 6,
+        "min": 408,
+        "max": 413,
+        "prom": 410.67
+      },
+      "bateria": {
+        "n": 6,
+        "min": 81,
+        "max": 81,
+        "prom": 81.0
+      }
+    }
+  },
+  {
+    "nodo": "Laptop_Alexis",
+    "ubicacion": "Actividad en clase 3 - Desarrollo de Software VIII",
+    "hora": "2026-10-05 19:00:11",
+    "metricas": {
+      "cpu": {
+        "n": 29,
+        "min": 2.8,
+        "max": 16.0,
+        "prom": 6.64
+      },
+      "memoria": {
+        "n": 29,
+        "min": 71.0,
+        "max": 74.2,
+        "prom": 71.88
+      },
+      "red": {
+        "n": 29,
+        "min": 0.0,
+        "max": 20.4,
+        "prom": 6.11
+      },
+      "conexion": {
+        "n": 29,
+        "min": 1.0,
+        "max": 1.0,
+        "prom": 1.0
+      },
+      "disco": {
+        "n": 6,
+        "min": 22.6,
+        "max": 22.6,
+        "prom": 22.6
+      },
+      "procesos": {
+        "n": 6,
+        "min": 400,
+        "max": 408,
+        "prom": 403.67
+      },
+      "bateria": {
+        "n": 6,
+        "min": 81,
+        "max": 81,
+        "prom": 81.0
+      }
+    }
+  },
+  {
+    "nodo": "Laptop_Alexis",
+    "ubicacion": "Actividad en clase 3 - Desarrollo de Software VIII",
+    "hora": "2026-10-05 19:00:41",
+    "metricas": {
+      "cpu": {
+        "n": 29,
+        "min": 2.7,
+        "max": 11.5,
+        "prom": 6.98
+      },
+      "memoria": {
+        "n": 29,
+        "min": 71.2,
+        "max": 72.7,
+        "prom": 71.73
+      },
+      "red": {
+        "n": 29,
+        "min": 0.0,
+        "max": 21.2,
+        "prom": 6.04
+      },
+      "conexion": {
+        "n": 29,
+        "min": 1.0,
+        "max": 1.0,
+        "prom": 1.0
+      },
+      "disco": {
+        "n": 6,
+        "min": 22.6,
+        "max": 22.6,
+        "prom": 22.6
+      },
+      "procesos": {
+        "n": 6,
+        "min": 398,
+        "max": 400,
+        "prom": 398.67
+      },
+      "bateria": {
+        "n": 6,
+        "min": 81,
+        "max": 81,
+        "prom": 81.0
+      }
+    }
+  },
+  {
+    "nodo": "Laptop_Alexis",
+    "ubicacion": "Actividad en clase 3 - Desarrollo de Software VIII",
+    "hora": "2026-10-05 19:01:11",
+    "metricas": {
+      "cpu": {
+        "n": 29,
+        "min": 2.3,
+        "max": 18.1,
+        "prom": 8.32
+      },
+      "memoria": {
+        "n": 29,
+        "min": 71.2,
+        "max": 72.7,
+        "prom": 71.92
+      },
+      "red": {
+        "n": 29,
+        "min": 0.0,
+        "max": 41.8,
+        "prom": 14.06
+      },
+      "conexion": {
+        "n": 29,
+        "min": 1.0,
+        "max": 1.0,
+        "prom": 1.0
+      },
+      "disco": {
+        "n": 6,
+        "min": 22.6,
+        "max": 22.6,
+        "prom": 22.6
+      },
+      "procesos": {
+        "n": 6,
+        "min": 397,
+        "max": 398,
+        "prom": 397.5
+      },
+      "bateria": {
+        "n": 6,
+        "min": 81,
+        "max": 81,
+        "prom": 81.0
+      }
+    }
+  },
+  {
+    "nodo": "Laptop_Alexis",
+    "ubicacion": "Actividad en clase 3 - Desarrollo de Software VIII",
+    "hora": "2026-10-05 19:01:41",
+    "metricas": {
+      "cpu": {
+        "n": 30,
+        "min": 2.3,
+        "max": 22.3,
+        "prom": 8.05
+      },
+      "memoria": {
+        "n": 30,
+        "min": 71.2,
+        "max": 74.4,
+        "prom": 72.2
+      },
+      "red": {
+        "n": 30,
+        "min": 0.0,
+        "max": 32.3,
+        "prom": 3.38
+      },
+      "conexion": {
+        "n": 30,
+        "min": 1.0,
+        "max": 1.0,
+        "prom": 1.0
+      },
+      "disco": {
+        "n": 5,
+        "min": 22.6,
+        "max": 22.6,
+        "prom": 22.6
+      },
+      "procesos": {
+        "n": 5,
+        "min": 397,
+        "max": 402,
+        "prom": 399.4
+      },
+      "bateria": {
+        "n": 5,
+        "min": 81,
+        "max": 81,
+        "prom": 81.0
+      }
+    }
+  },
+  {
+    "nodo": "Laptop_Alexis",
+    "ubicacion": "Actividad en clase 3 - Desarrollo de Software VIII",
+    "hora": "2026-10-05 19:02:12",
+    "metricas": {
+      "cpu": {
+        "n": 29,
+        "min": 8.9,
+        "max": 21.1,
+        "prom": 13.92
+      },
+      "memoria": {
+        "n": 29,
+        "min": 71.1,
+        "max": 73.1,
+        "prom": 71.68
+      },
+      "red": {
+        "n": 29,
+        "min": 0.0,
+        "max": 129.6,
+        "prom": 9.82
+      },
+      "conexion": {
+        "n": 29,
+        "min": 1.0,
+        "max": 1.0,
+        "prom": 1.0
+      },
+      "disco": {
+        "n": 6,
+        "min": 22.6,
+        "max": 22.6,
+        "prom": 22.6
+      },
+      "procesos": {
+        "n": 6,
+        "min": 403,
+        "max": 404,
+        "prom": 403.5
+      },
+      "bateria": {
+        "n": 6,
+        "min": 81,
+        "max": 81,
+        "prom": 81.0
+      }
+    }
+  },
+  {
+    "nodo": "Laptop_Alexis",
+    "ubicacion": "Actividad en clase 3 - Desarrollo de Software VIII",
+    "hora": "2026-10-05 19:02:42",
+    "metricas": {
+      "cpu": {
+        "n": 29,
+        "min": 2.4,
+        "max": 18.2,
+        "prom": 6.29
+      },
+      "memoria": {
+        "n": 29,
+        "min": 70.7,
+        "max": 73.4,
+        "prom": 71.24
+      },
+      "red": {
+        "n": 29,
+        "min": 0.0,
+        "max": 32.3,
+        "prom": 3.69
+      },
+      "conexion": {
+        "n": 29,
+        "min": 1.0,
+        "max": 1.0,
+        "prom": 1.0
+      },
+      "disco": {
+        "n": 6,
+        "min": 22.6,
+        "max": 22.6,
+        "prom": 22.6
+      },
+      "procesos": {
+        "n": 6,
+        "min": 399,
+        "max": 402,
+        "prom": 400.33
+      },
+      "bateria": {
+        "n": 6,
+        "min": 81,
+        "max": 81,
+        "prom": 81.0
+      }
+    }
+  },
+  {
+    "nodo": "Laptop_Alexis",
+    "ubicacion": "Actividad en clase 3 - Desarrollo de Software VIII",
+    "hora": "2026-10-05 19:03:12",
+    "metricas": {
+      "cpu": {
+        "n": 29,
+        "min": 2.4,
+        "max": 16.1,
+        "prom": 6.13
+      },
+      "memoria": {
+        "n": 29,
+        "min": 70.3,
+        "max": 72.5,
+        "prom": 70.88
+      },
+      "red": {
+        "n": 29,
+        "min": 0.0,
+        "max": 95.5,
+        "prom": 10.11
+      },
+      "conexion": {
+        "n": 29,
+        "min": 1.0,
+        "max": 1.0,
+        "prom": 1.0
+      },
+      "disco": {
+        "n": 6,
+        "min": 22.6,
+        "max": 22.6,
+        "prom": 22.6
+      },
+      "procesos": {
+        "n": 6,
+        "min": 397,
+        "max": 400,
+        "prom": 398.33
+      },
+      "bateria": {
+        "n": 6,
+        "min": 81,
+        "max": 81,
+        "prom": 81.0
+      }
+    }
+  },
+  {
+    "nodo": "Laptop_Alexis",
+    "ubicacion": "Actividad en clase 3 - Desarrollo de Software VIII",
+    "hora": "2026-10-05 19:04:42",
+    "metricas": {
+      "cpu": {
+        "n": 29,
+        "min": 3.5,
+        "max": 100.0,
+        "prom": 46.19
+      },
+      "memoria": {
+        "n": 29,
+        "min": 70.6,
+        "max": 73.1,
+        "prom": 71.28
+      },
+      "red": {
+        "n": 29,
+        "min": 0.0,
+        "max": 140.2,
+        "prom": 7.41
+      },
+      "conexion": {
+        "n": 29,
+        "min": 1.0,
+        "max": 1.0,
+        "prom": 1.0
+      },
+      "disco": {
+        "n": 5,
+        "min": 22.6,
+        "max": 22.6,
+        "prom": 22.6
+      },
+      "procesos": {
+        "n": 5,
+        "min": 401,
+        "max": 412,
+        "prom": 406.6
+      },
+      "bateria": {
+        "n": 5,
+        "min": 80,
+        "max": 80,
+        "prom": 80.0
+      }
+    }
+  }
+]
